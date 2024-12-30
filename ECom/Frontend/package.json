@@ -1,7 +1,7 @@
 {
   "name": "react-ecommerce",
   "version": "0.1.0",
-  "proxy":"http://localhost:8080",
+  "proxy": "http://localhost:8080",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.14",
@@ -49,5 +49,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "🔥🔥 WATCH HERE >> [Project Video](https://youtu.be/LH-S5v-D3hA)",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
