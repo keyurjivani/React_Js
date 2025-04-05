@@ -8,10 +8,24 @@
       "category": "Phone"
     },
     {
-      "id": "b0a0",
+      "id": "446b",
       "title": "Vivo",
       "price": "15000",
       "image": "https://www.91-img.com/pictures/152686-v1-vivo-v25-5g-256gb-mobile-phone-hres-7.jpg",
+      "category": "Phone"
+    },
+    {
+      "id": "d834",
+      "title": "I Phone",
+      "price": "100000",
+      "image": "https://static.digitecgalaxus.ch/Files/6/8/2/2/7/9/3/8/iPhone_14_Pro_Deep_Purple_PDP_Image_Position-4__WWEN.jpg",
+      "category": "Phone"
+    },
+    {
+      "id": "8fd9",
+      "title": "Google Pixel",
+      "price": "50000",
+      "image": "https://th.bing.com/th/id/OIP.vc49H9KwmqnWwz6H1DRZKgHaHa?rs=1&pid=ImgDetMain",
       "category": "Phone"
     }
   ]
