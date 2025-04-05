@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "05f3",
+      "title": "1+ Phone",
+      "price": "10000",
+      "image": "https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/oneplus11-mobile-phone.jpg",
+      "category": "Phone"
+    },
+    {
+      "id": "b0a0",
+      "title": "Vivo",
+      "price": "15000",
+      "image": "https://www.91-img.com/pictures/152686-v1-vivo-v25-5g-256gb-mobile-phone-hres-7.jpg",
+      "category": "Phone"
+    }
+  ]
+}
